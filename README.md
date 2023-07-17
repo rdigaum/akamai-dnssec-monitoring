@@ -20,7 +20,7 @@ output: akamai.com     will expire in 2 days, 18:09:27.280616
 
 **Running using Docker**
 
-Make sure you have Python installed on your system. The script was developed using Python 3, so it is recommended to have version 3.x installed. You can check the Python version by typing the following command in the terminal:
+Make sure you have Docker installed on your system. You can check the Docker is installed by typing the following command in the terminal:
 
 > $ docker --version
 
