@@ -2,7 +2,7 @@
 # Monitoring the Expiration data of the DNSSEC
 
 
-**Running it locally**
+## Running it locally
 
 
 Make sure you have Python installed on your system. The script was developed using Python 3, so it is recommended to have version 3.x installed. You can check the Python version by typing the following command in the terminal
@@ -18,7 +18,7 @@ Run the Python script by typing the following command:
 > $ python dnssec_monitoring.py
 output: akamai.com     will expire in 2 days, 18:09:27.280616
 
-**Running using Docker**
+## Running using Docker
 
 Make sure you have Docker installed on your system. You can check the Docker is installed by typing the following command in the terminal:
 
