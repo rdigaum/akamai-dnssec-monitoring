@@ -38,5 +38,3 @@ $ docker build -t dnssec-monitoring .
 
 $ docker run -d --name dnssec-monitoring-container dnssec-monitoring
 
-
-
