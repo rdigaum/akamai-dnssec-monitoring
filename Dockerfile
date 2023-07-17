@@ -9,7 +9,7 @@ COPY dnssec_monitoring.py .
 RUN pip3 install dnspython python-dateutil
 
 # Defina a variável de ambiente ZONES com as zonas desejadas
-ENV ZONES '["via.com.br"]'
+ENV ZONES '["akamai.com"]'
 
 # Defina o comando para executar o script Python
 CMD ["python3", "/app/dnssec_monitoring.py"]
