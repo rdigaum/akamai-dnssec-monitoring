@@ -25,17 +25,17 @@ Run the Python script by typing the following command:
 
 Make sure you have Docker installed on your system. You can check the Docker is installed by typing the following command in the terminal:
 
-> $ docker --version
+- `$ docker --version`
 
 Make a copy of the project using git clone
 
-> $ git clone https://github.com/rdigaum/akamai-dnssec-monitoring.git
+- `$ git clone https://github.com/rdigaum/akamai-dnssec-monitoring.git`
 
 Build the image using the Dockerfile
 
-> $ docker build -t dnssec-monitoring .
+- `$ docker build -t dnssec-monitoring .`
 
 Run the container image by typing the following command:
 
-> $ docker run -d --name dnssec-monitoring-container dnssec-monitoring
+- `$ docker run -d --name dnssec-monitoring-container dnssec-monitoring`
 
