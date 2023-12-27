@@ -1,7 +1,7 @@
 Getting Started
 ---------------
-#akamai-dnssec-monitoring
-#Monitoring the Expiration data of the DNSSEC
+**#akamai-dnssec-monitoring**
+Monitoring the Expiration data of the DNSSEC
 
 ### Introduction
 
