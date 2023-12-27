@@ -5,6 +5,8 @@ Getting Started
 
 ### Introduction
 
+This script will assist you in monitoring the expiration of DNSSEC zone signatures.
+
 ### Running it locally
 
 
